@@ -1,4 +1,4 @@
-#Drawing program gotten from pythoncode-tutorials by x4nth055
+#CREDIT: https://thepythoncode.com/article/make-a-drawing-program-with-python
 # Imports
 import sys
 import pygame
